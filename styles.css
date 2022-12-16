@@ -1,0 +1,44 @@
+.cabecalho{
+    width: auto;
+    height: 100px;
+    background: rgb(245,242,239);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:10px 20px;
+}
+ /*rgb(245,242,239)*/
+.logo{
+    width: 100px;
+    height: auto;
+}
+.barra-navegacao{
+    width: auto;
+    text-transform: uppercase;
+    text-decoration:none;
+    font-style: bold;
+}
+.barra-navegacao a{
+    margin:0 auto;
+}
+.corpo{
+    width: auto;
+    box-sizing: border-box;
+}
+.rodape{
+    display: flex;
+    background: rgb(245,242,239);
+    height: 100px;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    padding:10px 20px;
+}
+.logo-instagram{
+    width: 50px;
+}
+
+
+main img{
+    width: 100%;
+}
